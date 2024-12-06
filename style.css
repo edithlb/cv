@@ -3,3 +3,6 @@ body
     background-color: brown(171, 0, 0, 0.885);
     color: black;
 }
+nav ul li {
+    font-style : #3CC47C;
+}
